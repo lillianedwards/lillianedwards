@@ -1,8 +1,8 @@
-  
-# [Lillian Edwards 🪩 👩🏼‍💻 ](https://magnificent-churros-a12606.netlify.app/#) 
-## Front-End Developer
-  
+
 <div align="center" >
+<a href="https://magnificent-churros-a12606.netlify.app/#">
+  <h1>Lillian Edwards 👩🏼‍💻🪩</h1></a>
+  <h2>Front-End React Developer</h2>
 <img src="https://sdk.bitmoji.com/render/panel/20054902-227006830_62-s5-v1.png?transparent=1&palette=1&scale=2" alt="LillianBitmoji" width="300" height="300"> <img src="https://github-readme-stats.vercel.app/api?username=lillianedwards&show_icons=true&theme=grass" alt="GitHub Stats">
 
 # 
