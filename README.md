@@ -5,6 +5,7 @@
 ## Front-End Developer
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lillianedwards&show_icons=true&theme=merko)
 
+
 📍 Duluth, Minnesota 
 
 🔎 Currently learning Material UI and React Native 
