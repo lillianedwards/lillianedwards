@@ -1,9 +1,9 @@
 
 <div align="center" >
-<a href="https://magnificent-churros-a12606.netlify.app/#">
-  <h1>Lillian Edwards 👩🏼‍💻🪩</h1></a>
-  <h2>Front-End React Developer</h2>
-<img src="https://sdk.bitmoji.com/render/panel/20054902-227006830_62-s5-v1.png?transparent=1&palette=1&scale=2" alt="LillianBitmoji" width="300" height="300"> <img src="https://github-readme-stats.vercel.app/api?username=lillianedwards&show_icons=true&theme=grass" alt="GitHub Stats">
+<img width="1834" alt="Make your README" src="https://github.com/lillianedwards/lillianedwards/assets/137111941/382d76f1-8d43-47de-abb5-5769771036ca">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=lillianedwards&show_icons=true&theme=grass" alt="GitHub Stats">
 
 ## [Portfolio 💼](https://magnificent-churros-a12606.netlify.app/)
 <a href = "https://www.linkedin.com/in/lillian-edwards63/">
@@ -18,15 +18,6 @@
 
 </div>
 
-📍 Duluth, Minnesota 
-
-🔎 Currently learning Material UI and React Native 
-
-🎓 University of Denver Full-Stack Development Boot Camp Graduate
-
-👩🏼‍🏫 Prior Kindergarten Teacher with a M.Ed in Curriculum & Education
-
-🧘🏼‍♀️ Avid Yogi and 🎶 Swiftie
 
 <!---
 lillianedwards/lillianedwards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
